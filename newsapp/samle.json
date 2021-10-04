@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Miranda Halpern",
+    "title": "How to be a growth marketing anti-agency",
+    "description": "“As a nerdy kid I loved tech and was fascinated by how business works,” says Cam Sinclair, founder of Australian growth marketing firm Ammo. “I always knew I wanted to find some way to help founders and innovators get their great ideas out into the world. Aft…",
+    "url": "https://techcrunch.com/2021/10/01/how-to-be-a-growth-marketing-anti-agency/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1206798989.jpg?w=764",
+    "publishedAt": "2021-10-02T02:01:17Z",
+    "content": "“As a nerdy kid I loved tech and was fascinated by how business works,” says Cam Sinclair, founder of Australian growth marketing firm Ammo. “I always knew I wanted to find some way to help founders … [+4655 chars]"
+    },
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Connie Loizos",
+    "title": "Chamath Palihapitiya speaks to SPAC concerns, from fees to disclosures to quality",
+    "description": "It was almost exactly two years ago that a special purpose acquisition vehicle (SPAC) spearheaded by investor Chamath Palihapitiya took public the space tourism company Virgin Galactic. It was the first human spaceflight company to trade on the NYSE — or any …",
+    "url": "https://techcrunch.com/2021/10/01/chamath-palihapitiya-speaks-to-spac-concerns-from-fees-to-disclosures-to-quality/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-615650710-e1633132470632.jpg?w=627",
+    "publishedAt": "2021-10-02T00:30:30Z",
+    "content": "It was almost exactly two years ago that a special purpose acquisition vehicle (SPAC) spearheaded by investor Chamath Palihapitiya took public the space tourism company Virgin Galactic. It was the fi… [+1497 chars]"
+    },
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec, Alex Wilhelm",
+    "title": "7 takeaways from Rivian’s IPO filing",
+    "description": "Rivian, the electric automaker backed by Amazon, Ford and a cornucopia of heavy-hitting institutional investors like T. Rowe Price Associates and Coatue, finally made its once-confidential IPO filing public.  The company, which started in 2009 as Mainstream M…",
+    "url": "https://techcrunch.com/2021/10/01/7-takeaways-from-rivians-ipo-filing/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/IMG_2396.jpg?w=711",
+    "publishedAt": "2021-10-01T23:47:53Z",
+    "content": "Rivian, the electric automaker backed by Amazon, Ford and a cornucopia of heavy-hitting institutional investors like T. Rowe Price Associates and Coatue, finally made its once-confidential IPO filing… [+3204 chars]"
+    },
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Devin Coldewey",
+    "title": "Strike looms over labor conditions on TV and film productions by big streaming services",
+    "description": "A dispute over working conditions at “new media” properties like Netflix, Disney+, Apple TV and others may shut down productions across the country if a strike vote by the union succeeds. Thousands of workers on and off set claim they are not receiving approp…",
+    "url": "https://techcrunch.com/2021/10/01/strike-looms-over-labor-conditions-on-tv-and-film-productions-by-big-streaming-services/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/iatse-clap.png?w=693",
+    "publishedAt": "2021-10-01T22:14:21Z",
+    "content": "A dispute over working conditions at “new media” properties like Netflix, Disney+, Apple TV and others may shut down productions across the country if a strike vote by the union succeeds. Thousands o… [+4106 chars]"
+    },
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alex Wilhelm",
+    "title": "Daily Crunch: Nigerian president offers to lift 4-month Twitter ban under certain conditions",
+    "description": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+    "url": "https://techcrunch.com/2021/10/01/daily-crunch-nigerian-president-offers-to-lift-4-month-twitter-ban-under-certain-conditions/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1228660022.jpg?w=599",
+    "publishedAt": "2021-10-01T22:10:36Z",
+    "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here.\r\nHello and welcome to Daily Crunch for October 1, 2021! What a week… [+6259 chars]"
+    },
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec",
+    "title": "Rivian's IPO filing is now public",
+    "description": "Electric vehicle startup Rivian, which started deliveries of its R1T pickup truck in September, released its filing to become a publicly traded company in the United States. The S-1 document, which was filed Friday with the U.S. Securities and Exchange Commis…",
+    "url": "https://techcrunch.com/2021/10/01/rivians-ipo-filing-is-now-public/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2290.jpeg?w=711",
+    "publishedAt": "2021-10-01T22:00:17Z",
+    "content": "Electric vehicle startup Rivian, which started deliveries of its R1T pickup truck in September, released its filing to become a publicly traded company in the United States.\r\nThe S-1 document, which … [+1030 chars]"
+    },
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Greg Kumparak",
+    "title": "Here’s all 10 companies from IndieBio’s latest New York cohort",
+    "description": "Most big accelerators tend to dedicate some of their resources to dauntingly hard science problems and the companies taking them on… but for SOSV’s IndieBio, it’s the primary focus. Last time we checked in with IndieBio, their companies were working on everyt…",
+    "url": "https://techcrunch.com/2021/10/01/heres-all-10-companies-from-indiebios-latest-new-york-cohort/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/04/indiebio-logo-large.png?w=400",
+    "publishedAt": "2021-10-01T20:25:18Z",
+    "content": "Most big accelerators tend to dedicate some of their resources to dauntingly hard science problems and the companies taking them on… but for SOSV’s IndieBio, it’s the primary focus.\r\nLast time we che… [+3825 chars]"
+    },
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ron Miller",
+    "title": "The first win: Getting early customers to take a chance with you",
+    "description": "The purpose of your company is to sell your solution and generate revenue, but to do that you require customers. So how do you convince someone to bet on you?",
+    "url": "https://techcrunch.com/2021/10/01/the-first-win-getting-early-customers-to-take-a-chance-with-you/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1218827148.jpg?w=743",
+    "publishedAt": "2021-10-01T20:13:08Z",
+    "content": "New companies face innumerable challenges around fine-tuning their product and constructing the appropriate revenue model. You may be looking ahead to raising some funds and trying to juggle the admi… [+2096 chars]"
+    },
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Walter Thompson, Annie Saunders",
+    "title": "TechCrunch+ roundup: Alternative financing, Web3 adoption, India's hot Q3 fundraising",
+    "description": "The possibilities of Web3 are fascinating, although I will admit that the notion of public networks where everyone is presumed to be trustworthy is still a bit of a mind-bender.",
+    "url": "https://techcrunch.com/2021/10/01/techcrunch-roundup-alternative-financing-web3-adoption-indias-hot-q3-fundraising/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235416142.jpg?w=600",
+    "publishedAt": "2021-10-01T19:27:31Z",
+    "content": "Web3 is still taking shape, so it is hard to define.\r\nAt TechCrunch Disrupt, Houseparty founder Ben Rubin emphasized decentralization as Web3s central feature. In todays Web 2.0, individuals give mon… [+9178 chars]"
+    },
+     {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Cherylnn Low",
+    "title": "iOS 15 update to fix Apple Watch unlock bug is here",
+    "description": "If you've had your iPhone set up to unlock with your Apple Watch and recently upgraded to an iPhone 13, a software bug may have prevented you from continuing to use this. Thankfully, a fix is here.",
+    "url": "https://techcrunch.com/2021/10/01/ios-15-update-to-fix-apple-watch-unlock-bug-is-here/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1190069899.jpg?w=600",
+    "publishedAt": "2021-10-01T18:44:12Z",
+    "content": "If you’ve had your iPhone set up to unlock with your Apple Watch and recently upgraded to an iPhone 13, a software bug may have prevented you from continuing to use this. Thankfully, a fix is here an… [+1001 chars]"
+    }
+    ]
+    }
