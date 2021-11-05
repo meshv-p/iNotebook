@@ -29,16 +29,16 @@ function App() {
       <Router>
         <Navbar mode={mode} setmode={setMode1}/>
         <Switch>
-          <Route path="/article">
+          <Route exact path="/article">
             <Article mode={mode} />
           </Route>
-          <Route path="/footer">
+          <Route exact path="/footer">
             <Footer mode={mode}/>
           </Route>
-          <Route path="/about">
+          <Route exact path="/about">
             <About mode={mode}/>
           </Route>
-          <Route path="/">
+          <Route exact path="/">
             <Home mode={mode}/>
           </Route>
         </Switch>

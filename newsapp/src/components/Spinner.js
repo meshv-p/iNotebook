@@ -1,15 +1,15 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export class Spinner extends Component {
-    render() {
+const Spinner =()=>{
+    
         return (
-            <div className="container text-center">
-                <div className="spinner-border text-primary" role="status">
+            <>
+                <div className="text-center my-3 d-flex mx-auto spinner-border text-primary " role="status">
                     <span className="visually-hidden">Loading...</span>
                 </div>
-            </div>
+            </>
         )
-    }
+    
 }
 
 export default Spinner

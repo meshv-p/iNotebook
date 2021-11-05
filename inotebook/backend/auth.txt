@@ -1,0 +1,13 @@
+1.getuser header => 
+            eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE4MGQzZDgyMmZmY2EzOTdmMTI4Y2UzIn0sImlhdCI6MTYzNTgzMzY3MX0.Tukg5cJTc4ffBZvMja9Z7f-jHtZ1lsJJ7Y7slRLFdOk.eyJ1c2VyIjp7ImlkIjoiNjE4MGQzZDgyMmZmY2EzOTdmMTI4Y2UzIn0sImlhdCI6MTYzNTgzMjgwMn0.DWW9TuAVdN0qyjSs1exA3eCKgunnUyFHU1LnAB66eII.eyJ1c2VyIjp7ImlkIjoiNjE4MGFmODcxZjhjZGI1NDdiODQzYzdiIn0sImlhdCI6MTYzNTgzMTQ1NH0.eCkNGhonanCuHizNG_cirF6zK4Hz_2_MAcbc2QQSoDk.eyJ1c2VyIjp7ImlkIjoiNjE4MGFmODcxZjhjZGI1NDdiODQzYzdiIn0sImlhdCI6MTYzNTgzMTM3NH0.3CfxubNtvM1nZHclsLHm9y1jDQB5pxqhp3-y3XNvZ24.eyJ1c2VyIjp7ImlkIjoiNjE4MGFmODcxZjhjZGI1NDdiODQzYzdiIn0sImlhdCI6MTYzNTgzMDc2MX0.6FCtBSfIeNJ_I7zNg1Vo93mngs8sJfnrDBzScOmr9oo"
+
+2.login auth-token =>
+                    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjE4MGQzZDgyMmZmY2EzOTdmMTI4Y2UzIn0sImlhdCI6MTYzNTgzMzY3MX0.Tukg5cJTc4ffBZvMja9Z7f-jHtZ1lsJJ7Y7slRLFdOk
+
+
+3. login => 
+            1 .  "email":"patel@123gmail.com",
+                "password":"123#e"
+            2.  "name":"meshv",
+                "email":"mpatel@123gmail.com",
+                "password":"mp@324"
