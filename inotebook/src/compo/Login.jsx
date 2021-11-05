@@ -48,6 +48,7 @@ const Login = () => {
     return (
         <div className="my-2">
            {alertShow && <Alert sms={alert} color={alerttype} /> }
+           <h2 className="text-center my-3">Login to access iNotebook...</h2>
             <form onSubmit={onSubmitform}>
                 <div className="mb-3">
                     <label htmlFor="email" className="form-label">Email address</label>

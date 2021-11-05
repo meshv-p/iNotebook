@@ -10,6 +10,7 @@ import { Home } from './compo/Home';
 import NoteState from './context/notes/NoteState';
 import Login from './compo/Login';
 import Signup from './compo/Signup';
+import User from './compo/User';
 function App() {
   return (
     <>
@@ -26,6 +27,9 @@ function App() {
             </Route>
             <Route exact path="/signup">
               <Signup />
+            </Route>
+            <Route exact path="/user">
+              <User />
             </Route>
             <Route exact path="/">
               <Home />

@@ -11,6 +11,7 @@ const JWT_SECRET = "MESHV@231";
 //Create user Using :POST  '/api/auth/createuser'. No login required
 router.post('/createuser',
     body('name',"plz enter your correct name...").isLength({ min: 5 }),
+    // body('number',"plz enter your correct name...").isLength({ min: 10 }),
     // password must be at least 5 chars long
     body('password',"password must be atleast 5 character...").isLength({ min: 5 }),
     body('email').isEmail()
@@ -37,7 +38,8 @@ router.post('/createuser',
        user = await User.create({
             name: req.body.name,
             password: secPass,
-            email:req.body.email,
+            email:req.body.email
+            // number:req.body.number,
           })
           
         //   .then(user => res.json(user))

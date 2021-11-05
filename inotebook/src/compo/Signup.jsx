@@ -52,10 +52,11 @@ const Signup = () => {
         <div>
             <div className="my-2">
            {alertShow && <Alert sms={alert} color={alerttype} /> }
+           <h2 className="text-center my-3">Register to Use iNotebook...</h2>
             <form onSubmit={onSubmitform}>
                 <div className="mb-3">
                     <label htmlFor="name" className="form-label">Name :</label>
-                    <input type="text" className="form-control" value={credential.name} onChange={onchange} id="name" name="name" aria-describedby="emailHelp" />
+                    <input type="text" className="form-control" value={credential.name} onChange={onchange} autoComplete="true" id="name" name="name" aria-describedby="emailHelp" />
                     <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
                 </div>
                 <div className="mb-3">

@@ -4,23 +4,27 @@ import Notes from './Notes'
 import contextValue from '../context/notes/noteContext'
 
 export const Home = () => {
-
     const context = useContext(contextValue);
     const {alertShow ,setAlertShow, addNote , alert , alerttype , setAlert , setAlerttype  } = context;
     const [note, setNote] = useState({ title: "", description: "", tag: "" });
     
     useEffect(() => {
+        
         if(note.length === 0){
+            // setAlertShow(true);
             setAlert('Nothing to show here.Add Your First Note...')
+            // setAlerttype('warning')
             // setAlert('Nothing to show here.Add Your First Note...')
         }
         else{
+            // setAlertShow(true);
             setAlert('This is React Notes App...')
+            // setAlerttype('warning')
         }
-        // setAlertShow(true)
-        // setTimeout(() => {
-        //     setAlertShow(false);
-        // }, 3000);
+        setAlertShow(true)
+        setTimeout(() => {
+            setAlertShow(false);
+        }, 3000);
         //eslint-disable-next-line
     }, [])
 
